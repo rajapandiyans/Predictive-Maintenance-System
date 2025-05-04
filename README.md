@@ -33,7 +33,8 @@ The Predictive Maintenance Dashboard is an interactive web application designed 
    - **Results:** Shows predictions for RUL, maintenance status, and anomaly detection based on the input data.
    - **Visualizations:** Visualizes historical data and optionally overlays generated input values.
 
-
+## For any queries
+contact - rajapandiyans1903@gmail.com
 
 
 
